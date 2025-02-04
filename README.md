@@ -67,8 +67,8 @@ The package also includes sample insurance policy and damaged images uploaded - 
 [🔗 Click here to view the demo](https://youtu.be/2uGwu4hJiYw?si=cih3Pur0X7nGfj72)
 
 ### **Claims Log Dashboard Overview**
-![Claims log dashboard overview](images/Dashboard_View.jpg)
+![Claims log dashboard overview](images/dashboard_view.jpg)
 
 ### **Coverage Decisions & Overriding Overview**
-![Coverage decisions and overriding overview](images/Dashboard_View_2.jpg)
+![Coverage decisions and overriding overview](images/dashboard_view_2.jpg)
 
